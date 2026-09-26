@@ -51,7 +51,7 @@ Contoh struktur yang digunakan:
 
 ### Hasil Screenshot
 
-![Screenshot 1](screenshots/1.png)
+![Struktur data HTML](Screenshot/1.png)
 
 2. Membuat Heading dan Paragraf
 
@@ -76,7 +76,7 @@ Tag <h1> digunakan sebagai judul utama dan <h2> sebagai subjudul. Sementara itu,
 
 ### Hasil Screenshot
 
-![Screenshot 2](screenshots/2.png)
+![SMembuat Heading dan Paragraf](Screenshot/2.png)
 
 3. Menampilkan Gambar
 
@@ -97,7 +97,7 @@ Atribut src digunakan untuk menentukan lokasi file gambar. width dan height digu
 
 ### Hasil Screenshot
 
-![Screenshot 3](screenshots/3.png)
+![Menampilkan Gambar](Screenshot/3.png)
 
 4. Menerapkan Formatting Teks
 
@@ -134,7 +134,7 @@ Tag <b> membuat teks tebal, <i> membuat teks miring, <mark> memberikan highlight
 
 ### Hasil Screenshot
 
-![Screenshot 4](screenshots/4.png)
+![Menerapkan Formatting Teks](Screenshot/4.png)
 
 5. Membuat Unordered List
 
@@ -157,7 +157,7 @@ Unordered list menampilkan item menggunakan tanda bullet sehingga cocok digunaka
 
 ### Hasil Screenshot
 
-![Screenshot 5](screenshots/5.png)
+![Membuat ordered List](Screenshot/5.png)
 
 6. Membuat Ordered List
 
@@ -177,7 +177,7 @@ Ordered list menampilkan item menggunakan nomor sehingga cocok digunakan untuk d
 
 ### Hasil Screenshot
 
-![Screenshot 6](screenshots/6.png)
+![Membuat Ordered List](Screenshot/6.png)
 
 7. Membuat Hyperlink dan Navigasi
 
@@ -203,7 +203,7 @@ Atribut target="_blank" digunakan agar halaman tujuan dibuka pada tab baru.
 
 ### Hasil Screenshot
 
-![Screenshot 7](screenshots/7.png)
+![Membuat Hyperlink dan Navigasi](Screenshot/7.png)
 
 8. HTML Menggunakan W3C
 
@@ -223,7 +223,7 @@ Validasi ini membantu memastikan bahwa dokumen HTML yang dibuat telah mengikuti 
 
 ### Hasil Screenshot
 
-![Screenshot 8](screenshots/8.png)
+![HTML Menggunakan W3C](Screenshot/8.png)
 
 Kesimpulan
 
